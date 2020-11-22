@@ -34,30 +34,30 @@ https://seinecle.github.io/gephi-tutorials/generated-html/creating-a-simple-dyna
 
 Here's an Introduction to to Python programming aimed at the humanities:
 
-https://www.karsdorp.io/python-course/
+[https://www.karsdorp.io/python-course/](https://www.karsdorp.io/python-course/)
 
 Codecademy has a nice course:
 
-- https://www.codecademy.com/learn/learn-python-3
+- [https://www.codecademy.com/learn/learn-python-3](https://www.codecademy.com/learn/learn-python-3)
 
 Udemy has a number of free and paid courses:
 
-- https://www.udemy.com/course/python-programming-beginners/
+- [https://www.udemy.com/course/python-programming-beginners/](https://www.udemy.com/course/python-programming-beginners/)
 
-- https://www.udemy.com/course/learn-python-3-from-scratch-python-for-absolute-beginners/
+- [https://www.udemy.com/course/learn-python-3-from-scratch-python-for-absolute-beginners/](https://www.udemy.com/course/learn-python-3-from-scratch-python-for-absolute-beginners/)
 
-- https://www.udemy.com/course/pythonforbeginnersintro/
+- [https://www.udemy.com/course/pythonforbeginnersintro/](https://www.udemy.com/course/pythonforbeginnersintro/)
 
-- https://www.udemy.com/course/python-for-absolute-beginners-u/
+- [https://www.udemy.com/course/python-for-absolute-beginners-u/](https://www.udemy.com/course/python-for-absolute-beginners-u/)
 
 Another good set of tutorials are the [software carpentry](https://software-carpentry.org/lessons/) and [data carpentry](https://datacarpentry.org/lessons/) lessons
 
 But my favourite by far is Automate The Boring Stuff With Python:
 
-https://automatetheboringstuff.com
+[https://automatetheboringstuff.com](https://automatetheboringstuff.com)
 
 - Every chapter has a corresponding video on youtube (or even many videos)
 
 Finally, here's another book that goes more into the data science part:
 
-- https://jakevdp.github.io/PythonDataScienceHandbook/
+- [https://jakevdp.github.io/PythonDataScienceHandbook/](https://jakevdp.github.io/PythonDataScienceHandbook/)
