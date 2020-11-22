@@ -1,4 +1,6 @@
-## Bibliography
+## Bibliography and Links
+
+### Bibliography. 
 
 See here for HUGE biblio and resources: (http://historicalnetworkresearch.org/)
 
@@ -9,6 +11,8 @@ Ulrik Brandes, Garry Robins, Ann McCranie, Stanley Wasserman
 [https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C0794B28C613757F09C3FB315500E3A1/S2050124213000027a.pdf/what_is_network_science.pdf](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C0794B28C613757F09C3FB315500E3A1/S2050124213000027a.pdf/what_is_network_science.pdf)
 
 Carl Knappet. _An Archaeology of Interactionn: Network Perspectives on Material Culture and Society_ (OUP, 2011)
+
+### Tutorials. 
 
 **Tutorials for Gephi:**
 
