@@ -1,4 +1,4 @@
-**<span style="text-decoration:underline;">1Thomas Smith Task</span>**
+## Thomas Smith Task
 
 The following four letters are all written by or addressed to people called Thomas Smith. Your task is to determine if these Thomas Smith are all one man, or many different Thomas Smiths. Assign each Thomas Smith a number ID (e.g. '1', '2', '3', etc.). After you have made these decisions, please enter the data into the Excel spreadsheet [here](https://github.com/networkingarchives/networkingarchives.github.io/blob/main/Test%20spreadsheet.xlsx?raw=true). You may need to use consult external resources to make your decisions. At the end of the activity we will discuss how you came to your decisions. 
 
