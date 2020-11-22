@@ -50,6 +50,8 @@ Udemy has a number of free and paid courses:
 
 - https://www.udemy.com/course/python-for-absolute-beginners-u/
 
+Another good set of tutorials are the [software carpentry](https://software-carpentry.org/lessons/) and [data carpentry](https://datacarpentry.org/lessons/) lessons
+
 But my favourite by far is Automate The Boring Stuff With Python:
 
 https://automatetheboringstuff.com
