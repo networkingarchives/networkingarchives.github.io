@@ -1,5 +1,7 @@
 # Networking Archives Training School
 
+[An Introduction to Applied Network Research](https://prezi.com/dbcbtsttjlqc/?token=95c410b34e45897a60b516de7b7678cff1d3d8cd7ad2c1850b65aeda3e7a624d&utm_campaign=share&utm_medium=copy&rc=ex0share)
+
 [Glossary](glossary.md)
 
 [Bibliography](bibliography.md)
