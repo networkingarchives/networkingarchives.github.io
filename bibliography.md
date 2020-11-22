@@ -1,6 +1,6 @@
-Bibliography
+## Bibliography
 
-See here for HUGE biblio and resources: http://historicalnetworkresearch.org/
+See here for HUGE biblio and resources: (http://historicalnetworkresearch.org/)
 
 Ulrik Brandes, Garry Robins, Ann McCranie, Stanley Wasserman
 
