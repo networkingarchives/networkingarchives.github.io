@@ -77,12 +77,12 @@ The following draws from a collaborative glossary compiled at [Early Modern Digi
 
    Eigenvector centrality is a measurement of the structural significance of a _node_ that tries to define a ‘quality’ of a node recursively as a quantity that is proportional to the collective quality of its neighbours in the network. The eigenvector centrality is then given by the stable distribution of quality values on all nodes in the network that obeys this recursive definition.
 
-**force-directed network**
+##### **force-directed network**
 
 
    Force-directed network layouts are a class of algorithm used frequently in visualisation tools like Gephi. In a force-directed layout, each element of the network is modeled as though guided by unseen forces, much as in the physical world: gravity, electromagnetic repulsion, material elasticity. Nodes, for example, may be thought of as electrons on a two-dimensional plane, forcing each other apart as they approach one another. Edges as springs physically anchored between two nodes, drawing them together even as they repulsively push away. 
 
-**idiographic **
+##### **idiographic **
 
 
    Idiographic and nomothetic are terms introduced by Wilhelm Windelband to distinguish epistemologies rooted in the individual and unique experience from those oriented to general laws. The idiographic approach is associated with the humanities and subjectivity, with a tendency to specify, whereas nomothetic thinking is oriented to the natural sciences and objectivity, with a tendency to generalize.
@@ -91,7 +91,7 @@ The following draws from a collaborative glossary compiled at [Early Modern Digi
 ##### **link**
 
 
-   See _edge_.
+  See _edge_.
 
 
 ##### **logarithmic**
@@ -123,7 +123,7 @@ The following draws from a collaborative glossary compiled at [Early Modern Digi
 
    Sometimes called a _vertex _because it marks the intersection of lines, and sometimes called an _actor_, nodes are the elements of a network that are being connected.
 
-**nomethetic**
+##### **nomethetic**
 
 See _idiographic_
 
