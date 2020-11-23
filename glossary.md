@@ -9,13 +9,13 @@ The following draws from a collaborative glossary compiled at [Early Modern Digi
 ##### **actor**
 
 
-    See _node._
+   See _node._
 
 
 ##### **adjacency matrix**
 
 
-    See _matrix_.
+   See _matrix_.
 
 
 ##### **arc**
@@ -33,7 +33,7 @@ The following draws from a collaborative glossary compiled at [Early Modern Digi
 ##### **bipartite (also bimodal) network**
 
 
-    A network of two _node_ types in which connections are only between nodes of different types. One can perform a _one-mode-projection_ on a bipartite network.
+   A network of two _node_ types in which connections are only between nodes of different types. One can perform a _one-mode-projection_ on a bipartite network.
 
 
 ##### **centrality**
