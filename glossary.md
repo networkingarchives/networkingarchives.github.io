@@ -3,7 +3,7 @@ Online Appendix - Glossary
 
 ## Glossary
 
-The following draws from a collaborative glossary compiled at [Early Modern Digital Agendas: Network Analysis](https://folgerpedia.folger.edu/EMDA_2017), an NEH-funded summer institute at the Folger Shakespeare Library in July 2017 (directed by Ruth Ahnert and Jonathan Hope, and at which the other authors were all distinguished visiting fellows).[^1]  
+The following draws from a collaborative glossary compiled at [Early Modern Digital Agendas: Network Analysis](https://folgerpedia.folger.edu/EMDA_2017), an NEH-funded summer institute at the Folger Shakespeare Library in July 2017 (directed by Ruth Ahnert and Jonathan Hope, and at which the other authors were all distinguished visiting fellows).^[1]  
 
 
 ##### **actor**
