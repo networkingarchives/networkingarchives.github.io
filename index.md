@@ -13,7 +13,7 @@
 
 [Distant Reading Large Correspondence Archives Using Networks](https://yann-ryan.github.io/hnr_slides) (Historical Networks Research Conference, 2021).
 
-[The Impact of Mobility on an Early Modern Correspondence Network](https://yann-ryan.github.io/netsci-slides.html)
+[The Impact of Mobility on an Early Modern Correspondence Network](https://yann-ryan.github.io/netsci-slides.html) (Netsci Conference, 2021)
 
 ## Resources 
 [Interactive glossary with Diagrams](https://networkingarchives.shinyapps.io/interactive_glossary/)
