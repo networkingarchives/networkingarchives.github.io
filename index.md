@@ -16,9 +16,7 @@
 [The Impact of Mobility on an Early Modern Correspondence Network](https://yann-ryan.github.io/netsci-slides.html)
 
 ## Resources 
-[Interactive glossary with Diagrams]()
-
-[Glossary](glossary.md)
+[Interactive glossary with Diagrams](https://networkingarchives.shinyapps.io/interactive_glossary/)
 
 [Bibliography and Links](bibliography.md)
 
