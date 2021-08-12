@@ -16,9 +16,3 @@
 [Thomas Smith Exercise](thomas_smith.md)
 
 [Vistorian](vistorian.html)
-
-[Mobcorr](mobcorr.html)
-
-[Williamson](williamson.html)
-
-[Dury](duryMob.html)
