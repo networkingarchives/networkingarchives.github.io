@@ -9,7 +9,7 @@
 
 [An Introduction to Applied Network Research](https://prezi.com/dbcbtsttjlqc/?token=95c410b34e45897a60b516de7b7678cff1d3d8cd7ad2c1850b65aeda3e7a624d&utm_campaign=share&utm_medium=copy&rc=ex0share)
 
-[Another Introduction to Network Analysis Presentation](networkingarchives.github.io/lecture_slides)
+[Another 'Introduction to Network Analysis' Presentation](networkingarchives.github.io/lecture_slides)
 
 [Distant Reading Large Correspondence Archives Using Networks](https://yann-ryan.github.io/hnr_slides) (Historical Networks Research Conference, 2021).
 
