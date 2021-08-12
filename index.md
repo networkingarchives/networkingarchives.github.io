@@ -1,7 +1,7 @@
-# Resources
+# Training School Content
 
 ## Talks
-[Networking Archives Talk]()
+[Networking Archives Training School Talk]()
 
 [HNR 2020 Keynote (Ruth)]()
 
