@@ -3,6 +3,8 @@
 ## Talks
 [Networking Archives Training School Talk]()
 
+[Graph Technologies Keynote]()
+
 [HNR 2020 Keynote (Ruth)]()
 
 [What is Dutch in the State Papers?]()
