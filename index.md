@@ -1,8 +1,18 @@
+## Talks
+[Networking Archives Talk]()
+
+[HNR 2020 Keynote (Ruth)]()
+
+[What is Dutch in the State Papers?]()
+
 ## Slides
 
 [An Introduction to Applied Network Research](https://prezi.com/dbcbtsttjlqc/?token=95c410b34e45897a60b516de7b7678cff1d3d8cd7ad2c1850b65aeda3e7a624d&utm_campaign=share&utm_medium=copy&rc=ex0share)
 
+[Intro to Network Analysis](
+
 ## Resources 
+[Interactive glossary with Diagrams]()
 
 [Glossary](glossary.md)
 
@@ -11,7 +21,7 @@
 ## Notebooks and exercises 
 [Interactive Python tutorial](https://mybinder.org/v2/gh/networkingarchives/trainingschool/3e4208eeee3917fa6c88c2bd5cfe93a7e6535606) (once the Binder loads, click on 'Python and NetworkX.ipynb' to load the notebook)
 
-[Interactive R Tutorial](https://mybinder.org/v2/gh/yann-ryan/dh_intro_gates/main?urlpath=rstudio)  
+[Interactive R Tutorial](https://mybinder.org/v2/gh/yann-ryan/dh_intro_gates/main?urlpath=rstudio)  (R notebooks in MyBinder can be particularly slow to load, be patient!)
 
 [Thomas Smith Exercise](thomas_smith.md)
 
