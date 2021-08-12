@@ -9,7 +9,11 @@
 
 [An Introduction to Applied Network Research](https://prezi.com/dbcbtsttjlqc/?token=95c410b34e45897a60b516de7b7678cff1d3d8cd7ad2c1850b65aeda3e7a624d&utm_campaign=share&utm_medium=copy&rc=ex0share)
 
-[Intro to Network Analysis](
+[Intro to Network Analysis]()
+
+[Distant Reading Large Correspondence Archives Using Networks](https://yann-ryan.github.io/hnr_slides) (Historical Networks Research Conference, 2021).
+
+[The Impact of Mobility on an Early Modern Correspondence Network](https://yann-ryan.github.io/netsci-slides.html)
 
 ## Resources 
 [Interactive glossary with Diagrams]()
@@ -23,6 +27,10 @@
 
 [Interactive R Tutorial](https://mybinder.org/v2/gh/yann-ryan/dh_intro_gates/main?urlpath=rstudio)  (R notebooks in MyBinder can be particularly slow to load, be patient!)
 
+[Network Analysis with Palladio](https://yann-ryan.github.io/network_analysis_palladio)
+
 [Thomas Smith Exercise](thomas_smith.md)
 
 [Vistorian](vistorian.html)
+
+[Network Analysis Exercise](https://yann-ryan.github.io/student_assignment_groningen)
