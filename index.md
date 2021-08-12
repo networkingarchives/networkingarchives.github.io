@@ -11,6 +11,8 @@
 ## Notebooks and exercises 
 [Interactive Python tutorial](https://mybinder.org/v2/gh/networkingarchives/trainingschool/3e4208eeee3917fa6c88c2bd5cfe93a7e6535606) (once the Binder loads, click on 'Python and NetworkX.ipynb' to load the notebook)
 
+[Interactive R Tutorial](https://mybinder.org/v2/gh/yann-ryan/dh_intro_gates/main?urlpath=rstudio)  
+
 [Thomas Smith Exercise](thomas_smith.md)
 
 [Vistorian](vistorian.html)
