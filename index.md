@@ -1,15 +1,18 @@
-# Training School Content
+# Networking Archives Resources
+A set of resources linked to the Networking Archives project.
 
-## Talks
-[Networking Archives Training School Talk]()
+### Publications 
+"The Measure of the Archive: The Robustness of Network Analysis in Early Modern Correspondence.” Journal of Cultural Analytics, July 21, 2021. https://doi.org/10.22148/001c.25943.
 
-[Graph Technologies Keynote]()
 
-[HNR 2020 Keynote (Ruth)]()
+### Talks  
+[Networking Archives: Early modern letters and the promise of connected collections](https://youtu.be/U17HvqmXCEk)
 
-[What is Dutch in the State Papers?]()
+[HNR 2020 Keynote: 'Networking the Early Modern Archive' (Ruth Ahnert)](https://youtu.be/Xu8kAFe2fJg)
 
-## Slides
+[What is Dutch in the State Papers?](https://youtu.be/RwdEQxdpnjM)
+
+### Slides
 
 [An Introduction to Applied Network Research](https://prezi.com/dbcbtsttjlqc/?token=95c410b34e45897a60b516de7b7678cff1d3d8cd7ad2c1850b65aeda3e7a624d&utm_campaign=share&utm_medium=copy&rc=ex0share)
 
@@ -19,7 +22,7 @@
 
 [The Impact of Mobility on an Early Modern Correspondence Network](https://yann-ryan.github.io/netsci-slides.html) (Netsci Conference, 2021)
 
-## Resources 
+### Resources 
 [Interactive glossary with Diagrams](https://networkingarchives.shinyapps.io/interactive_glossary/)
 
 [Bibliography and Links](bibliography.md)
@@ -31,8 +34,9 @@
 
 [Network Analysis with Palladio](https://yann-ryan.github.io/network_analysis_palladio)
 
+[Network Analysis Exercise](https://yann-ryan.github.io/student_assignment_groningen)
+
+### Training School Content
 [Thomas Smith Exercise](thomas_smith.md)
 
 [Vistorian](vistorian.html)
-
-[Network Analysis Exercise](https://yann-ryan.github.io/student_assignment_groningen)
