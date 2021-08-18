@@ -3,6 +3,7 @@ Below are a set of resources relating to network analysis, data curation, and le
 
 ### Publications 
 **Recently published**
+
 "The Measure of the Archive: The Robustness of Network Analysis in Early Modern Correspondence.” Journal of Cultural Analytics, July 21, 2021. [](https://doi.org/10.22148/001c.25943)
 
 **Forthcoming**
@@ -34,15 +35,21 @@ Slides for talks given by project team members
 
 [The Impact of Mobility on an Early Modern Correspondence Network](https://yann-ryan.github.io/netsci-slides.html) (Netsci Conference, 2021)
 
-## Notebooks and exercises 
-These are interactive 'notebooks'
-[Interactive Python tutorial](https://mybinder.org/v2/gh/networkingarchives/trainingschool/3e4208eeee3917fa6c88c2bd5cfe93a7e6535606) (once the Binder loads, click on 'Python and NetworkX.ipynb' to load the notebook)
+### Notebooks and exercises 
+These are interactive 'notebooks': documents containing text and snippets of code which can be run live. They are made available on a service called MyBinder, which will load a version of the notebook in a server. 
+
+[Interactive NetworkX Python tutorial](https://mybinder.org/v2/gh/networkingarchives/trainingschool/3e4208eeee3917fa6c88c2bd5cfe93a7e6535606) (once the Binder loads, click on 'Python and NetworkX.ipynb' to load the notebook)
 
 [Interactive R Tutorial](https://mybinder.org/v2/gh/yann-ryan/dh_intro_gates/main?urlpath=rstudio)  (R notebooks in MyBinder can be particularly slow to load, be patient!)
 
 [Network Analysis with Palladio](https://yann-ryan.github.io/network_analysis_palladio)
 
 [Network Analysis Exercise](https://yann-ryan.github.io/student_assignment_groningen)
+
+### How-to blog posts
+[Co-Citation Networks from Letter Mentions: A Short Guide](https://networkingarchives.github.io/blog/2021/05/13/co-citation-networks-from-letter-mentions-a-short-guide/)
+[Network Analysis Workflow](https://networkingarchives.github.io/blog/2021/04/15/my-network-analysis-workflow/)
+[R and Wikidata tutorial](https://networkingarchives.github.io/blog/2021/02/15/r-and-wikidata/)
 
 ### Training School Content
 Additional teaching content used during the Networking Archives [training schools](https://networkingarchives.org/training-schools/)
