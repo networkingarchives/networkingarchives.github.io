@@ -1,18 +1,30 @@
 # Networking Archives Resources
-A set of resources linked to the Networking Archives project.
+Below are a set of resources relating to network analysis, data curation, and letter metadata, developed by the AHRC-funded [Networking Archives](https://networkingarchives.org/) project, 2019–2021.
 
 ### Publications 
-"The Measure of the Archive: The Robustness of Network Analysis in Early Modern Correspondence.” Journal of Cultural Analytics, July 21, 2021. https://doi.org/10.22148/001c.25943.
+**Recently published**
+"The Measure of the Archive: The Robustness of Network Analysis in Early Modern Correspondence.” Journal of Cultural Analytics, July 21, 2021. [](https://doi.org/10.22148/001c.25943)
+
+**Forthcoming**
 
 
-### Talks  
-[Networking Archives: Early modern letters and the promise of connected collections](https://youtu.be/U17HvqmXCEk)
+### Recorded Talks 
+Talks by team members available on Youtube.
 
-[HNR 2020 Keynote: 'Networking the Early Modern Archive' (Ruth Ahnert)](https://youtu.be/Xu8kAFe2fJg)
+[Historial Networks Research 2020 Keynote by project Co-I Ruth Ahnert: 'Networking the Early Modern Archive' (Ruth Ahnert)](https://youtu.be/Xu8kAFe2fJg)
 
-[What is Dutch in the State Papers?](https://youtu.be/RwdEQxdpnjM)
+[Graph Technologies 2021 Keynote: Networking Archives: Early modern letters and the promise of connected collections](https://youtu.be/U17HvqmXCEk)
+
+[RSA 2021 paper: What is Dutch in the State Papers?](https://youtu.be/RwdEQxdpnjM)
+
+## Resources 
+### Glossaries, bibliography
+[Interactive glossary with Diagrams](https://networkingarchives.shinyapps.io/interactive_glossary/)
+
+[Bibliography and Links](bibliography.md)
 
 ### Slides
+Slides for talks given by project team members
 
 [An Introduction to Applied Network Research](https://prezi.com/dbcbtsttjlqc/?token=95c410b34e45897a60b516de7b7678cff1d3d8cd7ad2c1850b65aeda3e7a624d&utm_campaign=share&utm_medium=copy&rc=ex0share)
 
@@ -22,12 +34,8 @@ A set of resources linked to the Networking Archives project.
 
 [The Impact of Mobility on an Early Modern Correspondence Network](https://yann-ryan.github.io/netsci-slides.html) (Netsci Conference, 2021)
 
-### Resources 
-[Interactive glossary with Diagrams](https://networkingarchives.shinyapps.io/interactive_glossary/)
-
-[Bibliography and Links](bibliography.md)
-
 ## Notebooks and exercises 
+These are interactive 'notebooks'
 [Interactive Python tutorial](https://mybinder.org/v2/gh/networkingarchives/trainingschool/3e4208eeee3917fa6c88c2bd5cfe93a7e6535606) (once the Binder loads, click on 'Python and NetworkX.ipynb' to load the notebook)
 
 [Interactive R Tutorial](https://mybinder.org/v2/gh/yann-ryan/dh_intro_gates/main?urlpath=rstudio)  (R notebooks in MyBinder can be particularly slow to load, be patient!)
@@ -37,6 +45,7 @@ A set of resources linked to the Networking Archives project.
 [Network Analysis Exercise](https://yann-ryan.github.io/student_assignment_groningen)
 
 ### Training School Content
+Additional teaching content used during the Networking Archives [training schools](https://networkingarchives.org/training-schools/)
 [Thomas Smith Exercise](thomas_smith.md)
 
 [Vistorian](vistorian.html)
