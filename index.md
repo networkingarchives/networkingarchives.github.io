@@ -47,6 +47,9 @@ These are interactive 'notebooks': documents containing text and snippets of cod
 [Network Analysis Exercise](https://yann-ryan.github.io/student_assignment_groningen)
 
 ### How-to blog posts
+
+From [](https://networkingarchives.github.io/blog/), where some other non-tutorial blog posts can be found.
+
 [Co-Citation Networks from Letter Mentions: A Short Guide](https://networkingarchives.github.io/blog/2021/05/13/co-citation-networks-from-letter-mentions-a-short-guide/)
 [Network Analysis Workflow](https://networkingarchives.github.io/blog/2021/04/15/my-network-analysis-workflow/)
 [R and Wikidata tutorial](https://networkingarchives.github.io/blog/2021/02/15/r-and-wikidata/)
