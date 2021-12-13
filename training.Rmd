@@ -1,0 +1,9 @@
+---
+title: "Training Materials"
+---
+
+Our research agenda includes two training schools and a colloquium, designed to introduce scholars to the project’s standards, tools, workflows, and methods for data curation and  analysis.
+
+The first training school at the University of Cambridge (July 8-10, 2019) will introduce participants to the meta-archive and to the curatorial tools, teaching them how to clean their own datasets and/or to contribute metadata to Early Modern Letters Online. The second training school at the University of Oxford (January 6-8, 2020) will introduce our network analysis tools and methodologies, and provide time explore and apply these to the participants’ own data and research questions.
+
+At their conclusion the teaching material from the training schools will be packaged as a standalone, open-access curriculum which can be used by other projects and institutions to offer analogous training. The curriculum will be complement by open-source network analysis tools and technical infrastructure developed by us for the project.

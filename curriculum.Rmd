@@ -1,0 +1,65 @@
+---
+title: "R Notebook"
+---
+# Networking Archives Resources
+Below are a set of resources relating to network analysis, data curation, and letter metadata, developed by the AHRC-funded [Networking Archives](https://networkingarchives.org/) project, 2019–2021.
+
+### Publications 
+**Recently published**
+
+"The Measure of the Archive: The Robustness of Network Analysis in Early Modern Correspondence.” Journal of Cultural Analytics, July 21, 2021. https://doi.org/10.22148/001c.25943
+
+**Forthcoming**
+
+
+### Recorded Talks 
+Talks by team members available on Youtube.
+
+[Historial Networks Research 2020 Keynote by project Co-I Ruth Ahnert: 'Networking the Early Modern Archive' (Ruth Ahnert)](https://youtu.be/Xu8kAFe2fJg)
+
+[Graph Technologies 2021 Keynote: Networking Archives: Early modern letters and the promise of connected collections](https://youtu.be/U17HvqmXCEk)
+
+[RSA 2021 paper: What is Dutch in the State Papers?](https://youtu.be/RwdEQxdpnjM)
+
+## Resources 
+### Glossaries, bibliography
+[Interactive glossary with Diagrams](https://networkingarchives.shinyapps.io/interactive_glossary/)
+
+[Bibliography and Links](bibliography.md)
+
+### Slides
+Slides for talks given by project team members
+
+[An Introduction to Applied Network Research](https://prezi.com/dbcbtsttjlqc/?token=95c410b34e45897a60b516de7b7678cff1d3d8cd7ad2c1850b65aeda3e7a624d&utm_campaign=share&utm_medium=copy&rc=ex0share)
+
+[Another 'Introduction to Network Analysis' Presentation](https://networkingarchives.github.io/lecture_slides)
+
+[Distant Reading Large Correspondence Archives Using Networks](https://yann-ryan.github.io/hnr_slides) (Historical Networks Research Conference, 2021).
+
+[The Impact of Mobility on an Early Modern Correspondence Network](https://yann-ryan.github.io/netsci-slides.html) (Netsci Conference, 2021)
+
+### Notebooks and exercises 
+These are interactive 'notebooks': documents containing text and snippets of code which can be run live. They are made available on a service called MyBinder, which will load a version of the notebook in a server. 
+
+[Interactive NetworkX Python tutorial](https://mybinder.org/v2/gh/networkingarchives/trainingschool/3e4208eeee3917fa6c88c2bd5cfe93a7e6535606) (once the Binder loads, click on 'Python and NetworkX.ipynb' to load the notebook)
+
+[Interactive R Tutorial](https://mybinder.org/v2/gh/yann-ryan/dh_intro_gates/main?urlpath=rstudio)  (R notebooks in MyBinder can be particularly slow to load, be patient!)
+
+[Network Analysis with Palladio](https://yann-ryan.github.io/network_analysis_palladio)
+
+[Network Analysis Exercise](https://yann-ryan.github.io/student_assignment_groningen)
+
+### How-to blog posts
+
+From networkingarchives.github.io/blog/, where some other non-tutorial blog posts can be found.
+
+[Co-Citation Networks from Letter Mentions: A Short Guide](https://networkingarchives.github.io/blog/2021/05/13/co-citation-networks-from-letter-mentions-a-short-guide/)
+[Network Analysis Workflow](https://networkingarchives.github.io/blog/2021/04/15/my-network-analysis-workflow/)
+[R and Wikidata tutorial](https://networkingarchives.github.io/blog/2021/02/15/r-and-wikidata/)
+
+### Training School Content
+Additional teaching content used during the Networking Archives [training schools](https://networkingarchives.org/training-schools/)
+[Thomas Smith Exercise](thomas_smith.md)
+
+[Vistorian](vistorian.html)
+

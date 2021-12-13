@@ -1,0 +1,80 @@
+---
+title: "Networking Archives"
+---
+
+‘Networking Archives’ was a three-year, AHRC funded research project which will merge the early modern correspondence data collected in ‘Early Modern Letters Online’ with metadata from the ‘Gale State Papers Online’ to create thereby the UK’s largest meta-archive of curated early modern correspondence metadata. 
+
+This site archives the project's tools, research, and resources. Use the menu above or click on the nodes in the network diagram below to navigate it.
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+
+library(visNetwork)
+library(tidyverse)
+library(igraph)
+library(ggraph)
+library(tidygraph)
+
+```
+
+```{r echo=FALSE,smessage=FALSE, warning=FALSE, fig.width=8}
+
+# g = read_csv('../../GitHub/Book-Chapters/data/universal_network.csv') %>% 
+#   filter(source == 'stuart') %>% distinct(X1, X2) %>%
+#   graph_from_data_frame() %>% 
+#   as_tbl_graph() %>% 
+#   mutate(degree = centrality_degree()) %>% 
+#   filter(degree > 200) %>% 
+#   mutate(size = sqrt(degree)) %>% left_join(read_csv('../../GitHub/Book-Chapters/data/universal_people.csv')) %>% 
+#   mutate(name = main_name) %>% mutate(color.border = 'rgba(0,0,0,.5') %>% mutate(color.alpha = .8) %>% mutate(color.background = 'rgba(0,0,255,.5') 
+# 
+# visIgraph(g, physics = T, layout = "layout_nicely")
+
+
+site_g = tibble(from = c('Networking Archives', 
+                         'Networking Archives',
+                         'Networking Archives',
+                         'Networking Archives',
+                         'Networking Archives',
+                       'About',
+                       'About',
+                       'About',
+                       'Research',
+                       'Research', 
+                       'Tools & Training', 
+                       'Tools & Training', 
+                       'Tools & Training', 
+                       'Tools & Training'), 
+                to = c('About', 
+                       'Research', 
+                       'Tools & Training', 
+                       "News & Blog", 
+                       'Contact',
+                       'Team',
+                       'Partners',
+                       'Credits',
+                       'Research Agenda',
+                       'Publications',
+                       'Curriculum',
+                       'Training Schools',
+                       'Tools',
+                       'Interactive Glossary')) %>%
+  graph_from_data_frame() %>% 
+  as_tbl_graph()%>%
+  mutate(size = c(5,3,3,3,3,1,1,1,1,1,1,1,1,1,1)*10) %>% 
+  mutate(color.background = c('blue', 'red', 'red', 'red', 'red', 'green', 'green', 'green', 'green', 'green', 'green', 'green', 'green', 'green', 'green')) %>% 
+  mutate(color.border = 'black') %>% mutate(url = 'https://www.github.com/networkingarchives')%>% 
+  activate(edges) %>% 
+  mutate(color = 'black') 
+
+visIgraph(site_g, physics = T, layout = "layout_nicely") %>% 
+            visEvents(selectNode = 
+                          "function(params) {
+    var nodeID = params.nodes[0];
+    var url = this.body.nodes[nodeID].options.url;
+    window.open(url, '_blank');
+   }", click = "function(edges){
+                  Shiny.onInputChange('click', edges.edges[0]);
+                  ;}")
+  
+```
+

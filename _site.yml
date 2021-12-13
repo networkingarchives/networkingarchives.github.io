@@ -1,0 +1,46 @@
+---
+name: "networking_archives"
+output_dir: docs
+navbar:
+  title: "Networking Archives"
+  subtitle: "Assembling and analysing early modern correspondence"
+  left:
+    - text: "About"
+      menu:
+      - text: "About the Project"
+        href: about.html
+      - text: "Team"
+        href: team.html
+      - text: "Partners"
+        href: partners.html
+      - text: "Credits"
+        href: credits.html
+    - text: "Research"
+      menu:
+      - text: "Research Agenda"
+        href: research.html
+      - text: "Publications"
+        href: publications.html
+    - text: "Tools & Training Materials"
+      href: training.html
+      menu: 
+      - text: "Curriculum"
+        href: curriculum.html
+      - text: "Training Schools"
+        href: training.html
+      - text: "Tools"
+        href: tools.html
+      - text: "Interactive Glossary"
+        href: "https://networkingarchives.shinyapps.io/interactive_glossary/"
+    - text: "News & Blog"
+      href: https://networkingarchives.github.io/blog/
+    - text: "Contact"
+      href: contact.html
+    - text: "Code (Github)"
+      href: https://www.github.com/networkingarchives
+
+output:
+    html_document:
+      theme: journal
+      highlight: textmate
+---

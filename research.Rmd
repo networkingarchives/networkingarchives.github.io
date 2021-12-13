@@ -1,0 +1,27 @@
+---
+title: "Research"
+---
+During the 16th, 17th, and 18th centuries Europeans accessed increasingly effective and economical means of exchanging letters within and across boundaries. In their most political functions, correspondence networks gathered information necessary for the consolidation of state authority. At their most esoteric, they were devoted to the exchange of ideas within a trans-national community of learned men and women known as the ‘republic of letters’. Although handled in separate historical literatures, these two types of ‘intelligencing’ overlapped: on the one hand, ‘men of letters’ possessed the linguistic, rhetorical, diplomatic skills, and networks required to obtain the information vital to emerging states; on the other, states possessed the abundant resources and the best infrastructures for collecting and disseminating information.
+
+The study of both kinds of early modern intelligencing has been hindered because scholars have lacked both large quantities of high-quality epistolary data and the tools and quantitative methods needed to analyse the networks documented by them.
+
+‘Networking Archives’ addresses these challenges by bringing together the data, tools, methods, and expertise of two existing projects to perform four conceptually distinct but chronologically overlapping tasks.
+
+### Uniting existing data. 
+
+The first task will be to unite the existing resources created by the two projects: Early Modern Letters Online (EMLO)  the published union catalogue created by the Mellon-funded ‘Cultures of Knowledge’ project in Oxford, and the unpublished epistolary data extracted from the 16th-century Domestic and Foreign State Papers Online collected by the AHRC-funded ‘Tudor Networks of Power’ (TNoP) project in Queen Mary University London and Cambridge.
+
+### Curating new data.   
+
+The second task will be to combine the editorial tools and expertise of the two projects to curate a third dataset: the records of letters in the Stuart State Papers Online. Added to EMLO, this will create a consolidated meta-archive of c. 450,000 letter records provide the materials for a fresh wave of research into the early modern ‘intelligencing’ networks and the role of intelligencers between the accession of Henry Tudor in 1509 and the death of Queen Anne, the last Stuart monarch, in 1714.
+
+### Analysing the meta-archive.   
+
+The third and principal phase of work will combine quantitative network analysis of this data with traditional research approaches to discover what the ‘meta-archive’ reveals about the ways in which ‘intelligence’ was gathered and transmitted in the early modern period, in the service both of consolidating of state authority and open intellectual exchange within the international ‘republic of letters’. To explore the utility of the data, software, and methods in pursuing this objective, the project team will undertake a series of collaborative, interdisciplinary ‘laboratories’ in which experiments will be conducted on the newly curated and merged datasets.
+
+### Propagating methods.  
+
+The fourth programme of work will expand these laboratories into two training schools and a colloquium designed to introduce a cohort of colleagues in early career through the process of data-cleaning, data-formatting, network analysis, and critical methods for incorporating their findings into historical scholarship.
+
+The research outputs from all these activities will be presented in a variety of traditional and non-traditional humanities publications, including large-scale datasets, technical papers, peer-reviewed scholarly articles, a popular history on espionage and surveillance in the early modern world, a collaboratively researched case study of intelligencing at the centre of the meta-archive, and an edited collection of essays emerging from the project’s training schools and colloquia.
+

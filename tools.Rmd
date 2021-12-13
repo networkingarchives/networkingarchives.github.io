@@ -1,0 +1,28 @@
+---
+title: "Tools"
+---
+
+# Overlaps Visualisation    
+
+Find shared neighbours for groups of individuals of unlimited size. Display a 'compressed sub-graph' and table view of shared neighbours.
+
+[![](Screenshot 2021-11-29 at 13.47.14.png){width="250"}](https://networkingarchives.shinyapps.io/overlaps_emlo_stuart/)
+
+# Basic EMLO Metrics
+
+Browse a list of EMLO catalogues and display basic network and geographic properties alongside a map.  
+
+# Visual Filter  
+
+Visually facet the State Papers data, by people, place, keyword, and network. 
+
+[![](Screenshot%202021-11-29%20at%2013.29.58.png){width="250"}](https://networkingarchives.shinyapps.io/stuart_visual_search/)  
+
+
+# Williamson's News Network
+
+Browse newsletters sent to Joseph Williamson's office, by places mentioned.  
+
+[![](Screenshot 2021-11-29 at 13.47.14.png){width="250"}](https://networkingarchives.shinyapps.io/overlaps_emlo_stuart/)
+
+

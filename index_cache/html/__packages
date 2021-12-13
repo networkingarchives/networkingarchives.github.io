@@ -1,0 +1,14 @@
+base
+visNetwork
+tidygraph
+igraph
+ggplot2
+ggraph
+tidyverse
+tibble
+tidyr
+readr
+purrr
+dplyr
+stringr
+forcats
