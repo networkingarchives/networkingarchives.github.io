@@ -63,7 +63,7 @@ site_g = tibble(from = c('Networking Archives',
   mutate(title = name) %>% 
   mutate(size = c(5,3,3,3,3,1,1,1,1,1,1,1,1,1,1)*10) %>% 
   mutate(color.background = c('blue', 'red', 'red', 'red', 'red', 'green', 'green', 'green', 'green', 'green', 'green', 'green', 'green', 'green', 'green')) %>% 
-  mutate(color.background = 'white') %>% 
+  mutate(color.background = 'lightblue') %>% 
   mutate(color.border = 'black') %>% 
   mutate(font.color = 'black') %>% 
   mutate(size = 20) %>% 
