@@ -59,10 +59,14 @@ site_g = tibble(from = c('Networking Archives',
                        'Tools',
                        'Interactive Glossary')) %>%
   graph_from_data_frame() %>% 
-  as_tbl_graph()%>%
+  as_tbl_graph() %>%
+  mutate(title = name) %>% 
   mutate(size = c(5,3,3,3,3,1,1,1,1,1,1,1,1,1,1)*10) %>% 
   mutate(color.background = c('blue', 'red', 'red', 'red', 'red', 'green', 'green', 'green', 'green', 'green', 'green', 'green', 'green', 'green', 'green')) %>% 
   mutate(color.border = 'black') %>% 
+  mutate(font.color = 'white') %>%
+  mutate(font.size = 20) %>%
+  mutate(shape = 'circle') %>%
   mutate(url = c('https://networkingarchives.github.io',
                  'https://networkingarchives.github.io/about.html',
                  'https://networkingarchives.github.io/research.html',
