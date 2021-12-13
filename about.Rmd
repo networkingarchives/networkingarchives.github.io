@@ -1,5 +1,5 @@
 ---
-title: "Training Materials"
+title: "About the Project"
 ---
 
 ‘Networking Archives’ is a three-year, AHRC funded research project which will merge the early modern correspondence data collected in ‘Early Modern Letters Online’ with metadata from the ‘Gale State Papers Online’ to create thereby the UK’s largest meta-archive of curated early modern correspondence metadata.
