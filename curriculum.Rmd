@@ -4,23 +4,6 @@ title: "R Notebook"
 # Networking Archives Resources
 Below are a set of resources relating to network analysis, data curation, and letter metadata, developed by the AHRC-funded [Networking Archives](https://networkingarchives.org/) project, 2019–2021.
 
-### Publications 
-**Recently published**
-
-"The Measure of the Archive: The Robustness of Network Analysis in Early Modern Correspondence.” Journal of Cultural Analytics, July 21, 2021. https://doi.org/10.22148/001c.25943
-
-**Forthcoming**
-
-
-### Recorded Talks 
-Talks by team members available on Youtube.
-
-[Historial Networks Research 2020 Keynote by project Co-I Ruth Ahnert: 'Networking the Early Modern Archive' (Ruth Ahnert)](https://youtu.be/Xu8kAFe2fJg)
-
-[Graph Technologies 2021 Keynote: Networking Archives: Early modern letters and the promise of connected collections](https://youtu.be/U17HvqmXCEk)
-
-[RSA 2021 paper: What is Dutch in the State Papers?](https://youtu.be/RwdEQxdpnjM)
-
 ## Resources 
 ### Glossaries, bibliography
 [Interactive glossary with Diagrams](https://networkingarchives.shinyapps.io/interactive_glossary/)

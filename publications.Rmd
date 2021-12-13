@@ -2,5 +2,24 @@
 title: "Publications"
 ---
 
+### Publications 
+**Recently published**
 
-List of publications, including DOI etc.
+"The Measure of the Archive: The Robustness of Network Analysis in Early Modern Correspondence.” Journal of Cultural Analytics, July 21, 2021. https://doi.org/10.22148/001c.25943
+
+**Forthcoming**
+
+*Correspondence Networks in Early Modern Europe: Experiments in Digital History* (Project monograph)
+
+'Searching for the Dutch Corner in the Republic of Letters: Network Science and Wittgenstein’s Family Resemblance' (submitted for review)
+
+
+
+### Recorded Talks 
+Talks by team members available on Youtube.
+
+[Historial Networks Research 2020 Keynote by project Co-I Ruth Ahnert: 'Networking the Early Modern Archive' (Ruth Ahnert)](https://youtu.be/Xu8kAFe2fJg)
+
+[Graph Technologies 2021 Keynote: Networking Archives: Early modern letters and the promise of connected collections](https://youtu.be/U17HvqmXCEk)
+
+[RSA 2021 paper: What is Dutch in the State Papers?](https://youtu.be/RwdEQxdpnjM)
