@@ -78,7 +78,6 @@ site_g = tibble(from = c('Networking Archives',
                  'https://networkingarchives.github.io/training.html',
                  'https://networkingarchives.github.io/tools.html',
                  'https://networkingarchives.shinyapps.io/interactive_glossary/')) %>% 
-           as_tibble() %>% View()
   activate(edges) %>% 
   mutate(color = 'black') 
 
