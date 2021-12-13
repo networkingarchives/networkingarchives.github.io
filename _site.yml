@@ -1,6 +1,5 @@
 ---
 name: "networking_archives"
-output_dir: docs
 navbar:
   title: "Networking Archives"
   subtitle: "Assembling and analysing early modern correspondence"
