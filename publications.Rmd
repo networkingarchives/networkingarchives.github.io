@@ -18,9 +18,15 @@ title: "Publications"
 
 [Networking Archives: Quantitative History and the Contingent Archive](http://ceur-ws.org/Vol-2723/short21.pdf) (CHR 2020)
 
+['Distant Reading' Large Correspondence Archives Using Networks](http://hnr2021.historicalnetworkresearch.org/?page_id=360) (Historical Networks Research 2021)
+
+[Peripatetic Networks, The Impact of Mobility on an Early Modern Correspondence Network](https://yann-ryan.github.io/talk/peripatetic-networks-the-impact-of-mobility-on-an-early-modern-correspondence-network/) (Networks 2021)
+
 ### Recorded Talks
 
 Talks by team members available on Youtube.
+
+['Constancy is the Life of Friendship, and Correspondence the Nurse of Constancy': Joseph Williamson and his Network in the State Papers Online](https://queenmaryenglish.wordpress.com/archived-pgrs/2020-21/1st-october-dr-yann-ryan-qmul/)
 
 [Historial Networks Research 2020 Keynote by project Co-I Ruth Ahnert: 'Networking the Early Modern Archive' (Ruth Ahnert)](https://youtu.be/Xu8kAFe2fJg)
 
