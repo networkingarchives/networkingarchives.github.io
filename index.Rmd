@@ -62,7 +62,23 @@ site_g = tibble(from = c('Networking Archives',
   as_tbl_graph()%>%
   mutate(size = c(5,3,3,3,3,1,1,1,1,1,1,1,1,1,1)*10) %>% 
   mutate(color.background = c('blue', 'red', 'red', 'red', 'red', 'green', 'green', 'green', 'green', 'green', 'green', 'green', 'green', 'green', 'green')) %>% 
-  mutate(color.border = 'black') %>% mutate(url = 'https://www.github.com/networkingarchives')%>% 
+  mutate(color.border = 'black') %>% 
+  mutate(url = c('https://networkingarchives.github.io',
+                 'https://networkingarchives.github.io/about.html',
+                 'https://networkingarchives.github.io/research.html',
+                 'https://networkingarchives.github.io/tools.html',
+                 'https://networkingarchives.github.io/blog',
+                 'https://networkingarchives.github.io/contact.html',
+                 'https://networkingarchives.github.io/team.html',
+                 'https://networkingarchives.github.io/partners.html',
+                 'https://networkingarchives.github.io/credits.html',
+                 'https://networkingarchives.github.io/research.html',
+                 'https://networkingarchives.github.io/publications.html',
+                 'https://networkingarchives.github.io/curriculum.html',
+                 'https://networkingarchives.github.io/training.html',
+                 'https://networkingarchives.github.io/tools.html',
+                 'https://networkingarchives.shinyapps.io/interactive_glossary/')) %>% 
+           as_tibble() %>% View()
   activate(edges) %>% 
   mutate(color = 'black') 
 
