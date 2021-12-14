@@ -2,13 +2,13 @@
 title: "Publications"
 ---
 
-### Publications
+### Articles & Books  
 
-**Recently published**
+#### Recently published  
 
 "The Measure of the Archive: The Robustness of Network Analysis in Early Modern Correspondence." Journal of Cultural Analytics, July 21, 2021. <https://doi.org/10.22148/001c.25943>
 
-**Forthcoming**
+#### Forthcoming  
 
 *Correspondence Networks in Early Modern Europe: Experiments in Digital History* (Project multigraph, forthcoming)
 
