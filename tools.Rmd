@@ -2,27 +2,41 @@
 title: "Tools"
 ---
 
-# Overlaps Visualisation    
-
-Find shared neighbours for groups of individuals of unlimited size. Display a 'compressed sub-graph' and table view of shared neighbours.
-
-[![](Screenshot 2021-11-29 at 13.47.14.png){width="250"}](https://networkingarchives.shinyapps.io/overlaps_emlo_stuart/)
-
-# Basic EMLO Metrics
-
-Browse a list of EMLO catalogues and display basic network and geographic properties alongside a map.  
+The project has developed a suite of tools to analyse and gain new perspectives on the correspondence data of both the Stuart State Papers and Early Modern Letters Online. A number of these are available as web applications, built using the 
 
 # Visual Filter  
 
 Visually facet the State Papers data, by people, place, keyword, and network. 
 
-[![](Screenshot%202021-11-29%20at%2013.29.58.png){width="250"}](https://networkingarchives.shinyapps.io/stuart_visual_search/)  
-
+https://networkingarchives.shinyapps.io/stuart_visual_search/ 
 
 # Williamson's News Network
 
-Browse newsletters sent to Joseph Williamson's office, by places mentioned.  
+Browse newsletters sent to Joseph Williamson's office, by places mentioned (extracted using Named Entity Recognition).  
 
-[![](Screenshot 2021-11-29 at 13.47.14.png){width="250"}](https://networkingarchives.shinyapps.io/overlaps_emlo_stuart/)
+https://networkingarchives.shinyapps.io/overlaps_emlo_stuart/
+
+# Stuart State Papers Ngram Browser  
+
+Display charts of words and phrases over time from the abstracts of the Stuart State Papers.
+
+https://networkingarchives.shinyapps.io/stuart_ngram_browser  
+
+
+# Overlaps Visualisation    
+
+Find shared neighbours for groups of individuals of unlimited size. Display a 'compressed sub-graph' and table view of shared neighbours.
+
+https://networkingarchives.shinyapps.io/overlaps_emlo_stuart
+
+# Basic EMLO Metrics
+
+Browse a list of EMLO catalogues and display basic network and geographic properties alongside a map.  
+
+# Network Robustness Tool
+
+This tool was developed alongside the paper ['The Measure of the Archive: The Robustness of Network Analysis in Early Modern Correspondence'](https://culturalanalytics.org/article/25943-the-measure-of-the-archive-the-ro-bustness-of-network-analysis-in-early-modern-correspondence). Upload a network graph (in the form of an edge list), and calculate its robustness. The online version is limited to a network with 1,000 edges, but the source code can be downloaded to run the code locally with no limits.  
+
+https://networkingarchives.shinyapps.io/network_robustness_tool/
 
 

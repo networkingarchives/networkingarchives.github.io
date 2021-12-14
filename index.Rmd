@@ -2,9 +2,11 @@
 title: "Networking Archives"
 ---
 
-‘Networking Archives’ was a three-year, AHRC funded research project which merged the early modern correspondence data collected in ‘Early Modern Letters Online’ with metadata from the ‘Gale State Papers Online’ to create thereby the UK’s largest meta-archive of curated early modern correspondence metadata. 
+‘Networking Archives’ was a three-year, [AHRC funded](https://gtr.ukri.org/projects?ref=AH%2FR014817%2F1) research project which merged the early modern correspondence data collected in ‘Early Modern Letters Online’ with metadata from the ‘Gale State Papers Online’ to create the UK’s largest meta-archive of curated early modern correspondence metadata. 
 
-This site archives the project's tools, research, and resources. Use the menu above or click on the nodes in the network diagram below to navigate it.
+This site archives the project's tools, research, and resources. It includes a number of [tools](https://networkingarchives.github.io/tools.html) which can be used to analyse or browse the project's correspondence data. You can find extensive [teaching materials](https://networkingarchives.github.io/curriculum.html) which can be freely re-used, including an [interactive glossary](https://networkingarchives.shinyapps.io/interactive_glossary/){target="_blank"} of network terms.
+
+Use the menu above (or click on the nodes in the network diagram below) to navigate the site.
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 
@@ -87,14 +89,12 @@ site_g = tibble(from = c('Networking Archives',
   mutate(color = 'black')
 
 visIgraph(site_g, physics = T, layout = "layout_nicely") %>% 
-            visEvents(selectNode = 
+            visEvents(click = 
                           "function(params) {
     var nodeID = params.nodes[0];
     var url = this.body.nodes[nodeID].options.url;
-    window.open(url, '_blank');
-   }", click = "function(edges){
-                  Shiny.onInputChange('click', edges.edges[0]);
-                  ;}")
+    window.open(url, '_self');
+   }")
   
 ```
 

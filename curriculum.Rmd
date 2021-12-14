@@ -1,16 +1,16 @@
 ---
-title: "R Notebook"
+title: "Curriculum"
 ---
-# Networking Archives Resources
+## Networking Archives Resources
 Below are a set of resources relating to network analysis, data curation, and letter metadata, developed by the AHRC-funded [Networking Archives](https://networkingarchives.org/) project, 2019–2021.
 
-## Resources 
-### Glossaries, bibliography
+### Resources 
+#### Glossaries, bibliography
 [Interactive glossary with Diagrams](https://networkingarchives.shinyapps.io/interactive_glossary/)
 
 [Bibliography and Links](bibliography.md)
 
-### Slides
+#### Slides
 Slides for talks given by project team members
 
 [An Introduction to Applied Network Research](https://prezi.com/dbcbtsttjlqc/?token=95c410b34e45897a60b516de7b7678cff1d3d8cd7ad2c1850b65aeda3e7a624d&utm_campaign=share&utm_medium=copy&rc=ex0share)
@@ -32,7 +32,7 @@ These are interactive 'notebooks': documents containing text and snippets of cod
 
 [Network Analysis Exercise](https://yann-ryan.github.io/student_assignment_groningen)
 
-### How-to blog posts
+#### How-to blog posts
 
 From networkingarchives.github.io/blog/, where some other non-tutorial blog posts can be found.
 
@@ -40,9 +40,37 @@ From networkingarchives.github.io/blog/, where some other non-tutorial blog post
 [Network Analysis Workflow](https://networkingarchives.github.io/blog/2021/04/15/my-network-analysis-workflow/)
 [R and Wikidata tutorial](https://networkingarchives.github.io/blog/2021/02/15/r-and-wikidata/)
 
-### Training School Content
-Additional teaching content used during the Networking Archives [training schools](https://networkingarchives.org/training-schools/)
-[Thomas Smith Exercise](thomas_smith.md)
+#### Training School Content  
 
-[Vistorian](vistorian.html)
+Additional teaching content used during the Networking Archives [training schools](https://networkingarchives.org/training-schools/):   
+
+[Vistorian Tutorial](vistorian.html)   
+
+[Thomas Smith Exercise](thomas_smith.md)  
+
+#### Useful network analysis links  
+
+##### Tools  
+
+[The Vistorian](https://networkcube.github.io/vistorian/web/index.html) 
+
+[Palladio](https://hdlab.stanford.edu/palladio/)  
+
+[Gephi](https://gephi.org/)  
+
+##### Tutorials  
+
+Programming Historian:  [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources)  
+
+Programming Historian: [Exploring and Analyzing Network Data with Python](https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python)  
+
+[Introduction to Network Analysis with R](https://www.jessesadler.com/post/network-analysis-with-r/)  
+
+##### Other  
+
+[Historical Networks Research Bibliography ](https://historicalnetworkresearch.org/bibliography/)  
+
+
+
+
 

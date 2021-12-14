@@ -17,7 +17,7 @@ navbar:
         href: credits.html
     - text: "Research"
       menu:
-      - text: "Research Agenda"
+      - text: "Research Plan"
         href: research.html
       - text: "Publications"
         href: publications.html
@@ -30,7 +30,7 @@ navbar:
         href: training.html
       - text: "Tools"
         href: tools.html
-      - text: "Interactive Glossary"
+      - text: "Interactive Network Glossary"
         href: "https://networkingarchives.shinyapps.io/interactive_glossary/"
     - text: "News & Blog"
       href: https://networkingarchives.github.io/blog/
@@ -38,6 +38,7 @@ navbar:
       href: contact.html
     - text: "Code (Github)"
       href: https://www.github.com/networkingarchives
+      target: "_blank"
 
 output:
     html_document:
