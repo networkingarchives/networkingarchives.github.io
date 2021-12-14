@@ -2,73 +2,74 @@
 title: "Curriculum"
 ---
 ## Networking Archives Resources
-Below are a set of resources relating to network analysis, data curation, and letter metadata, developed by the AHRC-funded [Networking Archives](https://networkingarchives.org/) project, 2019–2021.
+Below are a set of resources relating to network analysis, data curation, and letter metadata, developed by the AHRC-funded [Networking Archives](https://networkingarchives.org/){target="_blank"} project, 2019–2021.
 
 ### Resources 
 #### Glossaries, bibliography
-[Interactive glossary with Diagrams](https://networkingarchives.shinyapps.io/interactive_glossary/)
+[Interactive glossary with Diagrams](https://networkingarchives.shinyapps.io/interactive_glossary/){target="_blank"}
 
-[Bibliography and Links](bibliography.md)
+[Bibliography and Links](bibliography.md){target="_blank"}
 
 #### Slides
 Slides for talks given by project team members
 
-[An Introduction to Applied Network Research](https://prezi.com/dbcbtsttjlqc/?token=95c410b34e45897a60b516de7b7678cff1d3d8cd7ad2c1850b65aeda3e7a624d&utm_campaign=share&utm_medium=copy&rc=ex0share)
+[An Introduction to Applied Network Research](https://prezi.com/dbcbtsttjlqc/?token=95c410b34e45897a60b516de7b7678cff1d3d8cd7ad2c1850b65aeda3e7a624d&utm_campaign=share&utm_medium=copy&rc=ex0share){target="_blank"}
 
-[Another 'Introduction to Network Analysis' Presentation](https://networkingarchives.github.io/lecture_slides)
+[Another 'Introduction to Network Analysis' Presentation](https://networkingarchives.github.io/lecture_slides){target="_blank"}
 
-[Distant Reading Large Correspondence Archives Using Networks](https://yann-ryan.github.io/hnr_slides) (Historical Networks Research Conference, 2021).
+[Distant Reading Large Correspondence Archives Using Networks](https://yann-ryan.github.io/hnr_slides){target="_blank"} (Historical Networks Research Conference, 2021).
 
-[The Impact of Mobility on an Early Modern Correspondence Network](https://yann-ryan.github.io/netsci-slides.html) (Netsci Conference, 2021)
+[The Impact of Mobility on an Early Modern Correspondence Network](https://yann-ryan.github.io/netsci-slides.html){target="_blank"} (Netsci Conference, 2021)
 
-### Notebooks and exercises 
+### Notebooks and exercises  
+
 These are interactive 'notebooks': documents containing text and snippets of code which can be run live. They are made available on a service called MyBinder, which will load a version of the notebook in a server. 
 
-[Interactive NetworkX Python tutorial](https://mybinder.org/v2/gh/networkingarchives/trainingschool/3e4208eeee3917fa6c88c2bd5cfe93a7e6535606) (once the Binder loads, click on 'Python and NetworkX.ipynb' to load the notebook)
+[Interactive NetworkX Python tutorial](https://mybinder.org/v2/gh/networkingarchives/trainingschool/3e4208eeee3917fa6c88c2bd5cfe93a7e6535606){target="_blank"} (once the Binder loads, click on 'Python and NetworkX.ipynb' to load the notebook)
 
-[Interactive R Tutorial](https://mybinder.org/v2/gh/yann-ryan/dh_intro_gates/main?urlpath=rstudio)  (R notebooks in MyBinder can be particularly slow to load, be patient!)
+[Interactive R Tutorial](https://mybinder.org/v2/gh/yann-ryan/dh_intro_gates/main?urlpath=rstudio){target="_blank"}  (R notebooks in MyBinder can be particularly slow to load, be patient!)
 
-[Network Analysis with Palladio](https://yann-ryan.github.io/network_analysis_palladio)
+[Network Analysis with Palladio](https://yann-ryan.github.io/network_analysis_palladio){target="_blank"}
 
-[Network Analysis Exercise](https://yann-ryan.github.io/student_assignment_groningen)
+[Network Analysis Exercise](https://yann-ryan.github.io/student_assignment_groningen){target="_blank"}
 
 #### How-to blog posts
 
 From networkingarchives.github.io/blog/, where some other non-tutorial blog posts can be found.
 
-[Co-Citation Networks from Letter Mentions: A Short Guide](https://networkingarchives.github.io/blog/2021/05/13/co-citation-networks-from-letter-mentions-a-short-guide/)
+[Co-Citation Networks from Letter Mentions: A Short Guide](https://networkingarchives.github.io/blog/2021/05/13/co-citation-networks-from-letter-mentions-a-short-guide/){target="_blank"}
 [Network Analysis Workflow](https://networkingarchives.github.io/blog/2021/04/15/my-network-analysis-workflow/)
-[R and Wikidata tutorial](https://networkingarchives.github.io/blog/2021/02/15/r-and-wikidata/)
+[R and Wikidata tutorial](https://networkingarchives.github.io/blog/2021/02/15/r-and-wikidata/){target="_blank"}
 
 #### Training School Content  
 
-Additional teaching content used during the Networking Archives [training schools](https://networkingarchives.org/training-schools/):   
+Additional teaching content used during the Networking Archives [training schools](https://networkingarchives.org/training-schools/){target="_blank"}:   
 
-[Vistorian Tutorial](vistorian.html)   
+[Vistorian Tutorial](vistorian.html){target="_blank"}   
 
-[Thomas Smith Exercise](thomas_smith.md)  
+[Thomas Smith Exercise](thomas_smith.md){target="_blank"}  
 
 #### Useful network analysis links  
 
 ##### Tools  
 
-[The Vistorian](https://networkcube.github.io/vistorian/web/index.html) 
+[The Vistorian](https://networkcube.github.io/vistorian/web/index.html){target="_blank"} 
 
-[Palladio](https://hdlab.stanford.edu/palladio/)  
+[Palladio](https://hdlab.stanford.edu/palladio/){target="_blank"}  
 
-[Gephi](https://gephi.org/)  
+[Gephi](https://gephi.org/){target="_blank"}  
 
 ##### Tutorials  
 
-Programming Historian:  [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources)  
+Programming Historian:  [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources){target="_blank"}  
 
-Programming Historian: [Exploring and Analyzing Network Data with Python](https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python)  
+Programming Historian: [Exploring and Analyzing Network Data with Python](https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python){target="_blank"}  
 
-[Introduction to Network Analysis with R](https://www.jessesadler.com/post/network-analysis-with-r/)  
+[Introduction to Network Analysis with R](https://www.jessesadler.com/post/network-analysis-with-r/){target="_blank"}  
 
 ##### Other  
 
-[Historical Networks Research Bibliography ](https://historicalnetworkresearch.org/bibliography/)  
+[Historical Networks Research Bibliography ](https://historicalnetworkresearch.org/bibliography/){target="_blank"}  
 
 
 
