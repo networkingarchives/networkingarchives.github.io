@@ -1,5 +1,9 @@
 ---
-title: "Networking Archives"
+title: ""
+output:
+  html_document:
+    includes:
+      in_header: hero-image.html
 ---
 
 ‘Networking Archives’ was a three-year, [AHRC funded](https://gtr.ukri.org/projects?ref=AH%2FR014817%2F1) research project which merged the early modern correspondence data collected in ‘Early Modern Letters Online’ with metadata from the ‘Gale State Papers Online’ to create the UK’s largest meta-archive of curated early modern correspondence metadata. 

@@ -44,4 +44,5 @@ output:
     html_document:
       theme: journal
       highlight: textmate
+      css: style.css
 ---
