@@ -24,14 +24,19 @@ navbar:
     - text: "Tools & Training Materials"
       href: training.html
       menu: 
+      - text: Tools
+      - text: "Interactive Network Glossary"
+        href: glossary.html
+      - text: "Visual Filter Tool"
+        href: visual.html
+      - text: "Ngram Browser Tool"
+        href: ngram.html
+      - text: '---------'
+      - text: Training Materials
       - text: "Curriculum"
         href: curriculum.html
       - text: "Training Schools"
         href: training.html
-      - text: "Tools"
-        href: tools.html
-      - text: "Interactive Network Glossary"
-        href: "https://networkingarchives.shinyapps.io/interactive_glossary/"
     - text: "News & Blog"
       href: https://networkingarchives.github.io/blog/
     - text: "Contact"

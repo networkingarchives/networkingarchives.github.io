@@ -11,7 +11,7 @@
 
 
 
-<title>Team</title>
+<title>Ngram Browser</title>
 
 <script src="site_libs/header-attrs-2.6.6/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
@@ -323,23 +323,18 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Team</h1>
+<h1 class="title toc-ignore">Ngram Browser</h1>
 
 </div>
 
 
-<p>Professor Howard Hotson, Fellow and Tutor in Modern History, Professor of Early Modern Intellectual History St. Anne’s College, University of Oxford</p>
-<p>Dr Ruth Ahnert, Senior Lecturer in Renaissance Studies School of English and Drama, Queen Mary University of London</p>
-<p>Dr Sebastian Ahnert, Gatsby Career Development Fellow, Sainsbury Laboratory/Cavendish Laboratory, Fellow and Director of Studies King’s College, University of Cambridge</p>
-<p>Miranda Lewis, Editor, Early Modern Letters Online Cultures of Knowledge, History Faculty, University of Oxford</p>
-<p>Dr Esther van Raamsdonk, Project Associate, British Academy Fellow, Warwick University</p>
-<p>Dr Philip Beeley, Project Research Fellow, Faculty of History, University of Oxford</p>
-<p>Dr Yann Ryan, Project Research Fellow, School of English and Drama, Queen Mary University of London</p>
-<div id="past-members" class="section level1">
-<h1>Past Members</h1>
-<p>Matthew Wilcoxson, Research Software Engineer Oxford eResearch Centre, University of Oxford</p>
-<p>Arno Bosse, Digital Project Manager Cultures of Knowledge, History Faculty, University of Oxford</p>
-</div>
+<p>Use the controls to display a yearly count of the relative frequency of a term or terms as found in the abstracts of the State Papers: Stuart. The term can either be the original spelling (case has been ignored), or the lemmatized word.</p>
+<p>It accepts regular expressions. For instance, to search for all words ending in <strong>king</strong> use the search term <strong>.*king</strong> For more on the regular expressions you can use see <a href="https://stringr.tidyverse.org/articles/regular-expressions.html">here</a>.</p>
+<p>To add several terms, use <strong>|</strong> to separate the words, and <strong>^</strong> and <strong>$</strong> to indicate the beginning and end of each word, except for the beginning of the first and the end of the last. For example, to get results for both ship and war use <strong>ship$|^war</strong></p>
+<p>Choose between a chart displaying the frequency and one displaying the rank using a log scale.</p>
+<p>Use of this to look for trends should be with caution. The abstracts come from the Calendars of State Papers, and some periods and series have more extended abstracts than others. Lemmatization uses a modern dictionary and may not give accurate results.</p>
+<iframe src="https://networkingarchives.shinyapps.io/stuart_ngram_browser" width="1000px" height="700px" frameBorder="0">
+</iframe>
 
 
 
