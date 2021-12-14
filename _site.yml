@@ -41,9 +41,10 @@ navbar:
       href: https://networkingarchives.github.io/blog/
     - text: "Contact"
       href: contact.html
-    - text: "Code (Github)"
-      href: https://www.github.com/networkingarchives
-      target: "_blank"
+  right:
+    - href: https://www.github.com/networkingarchives
+      icon: fab fa-github
+      text: Data & Code
 
 output:
     html_document:
