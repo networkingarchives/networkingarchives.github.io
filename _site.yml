@@ -25,14 +25,16 @@ navbar:
       href: training.html
       menu: 
       - text: Tools
-      - text: "Interactive Network Glossary"
-        href: glossary.html
       - text: "Visual Filter Tool"
         href: visual.html
       - text: "Ngram Browser Tool"
         href: ngram.html
+      - text: "Places Mentioned Map"
+        href: entity.html
       - text: '---------'
       - text: Training Materials
+      - text: "Interactive Network Glossary"
+        href: glossary.html
       - text: "Curriculum"
         href: curriculum.html
       - text: "Training Schools"

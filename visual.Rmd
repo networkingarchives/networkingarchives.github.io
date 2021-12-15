@@ -2,4 +2,10 @@
 title: "Visual Filter"
 ---
 
+This tool enables users to facet the State Papers correspondence using a series of visual guides: first, select sender(s) and recipient(s) using the drop-down menu on the right. Next, search for a keyword, which displays a bar chart of the keyword hits over time. Select a time period by dragging a box and results are displayed on the mini-map. Lastly, draw a box around an area of interest using the map tools, and click to display the relevant network of letters sent from those origins. 
+
+Clicking on each link will display the letters between those two individuals. 
+
+Note that this is slow to load. An easier-to-navigate version is available here: https://networkingarchives.shinyapps.io/stuart_visual_search/
+
 <iframe src="https://networkingarchives.shinyapps.io/stuart_visual_search/" width="1200" height="800" frameBorder="0"></iframe>

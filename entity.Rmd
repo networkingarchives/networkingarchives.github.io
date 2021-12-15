@@ -1,0 +1,9 @@
+---
+title: "Places Mentioned in Joseph Williamson's News Network"
+---
+
+This map displays places mentioned in letters of news from Joseph Williamson's network of informants. The places were extracted using the python library SpaCy, which uses statistical patterns in the text to guess likely place names, and are not 100% accurate. 
+
+To use, first select a location on the map. Next, select from the three gazeteer sources (multiple can be selected), and a NER method (currently only SpaCy is implemented). A list of informants will appear as buttons. Clicking on one or more of these will display the places mentioned as sized points. Clicking on a point will  display the relevant abstracts, with the place name highlighted.
+
+<iframe src="https://networkingarchives.shinyapps.io/williamson_news/" width="1200" height="800" frameBorder="0"></iframe>

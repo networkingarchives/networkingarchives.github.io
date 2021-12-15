@@ -11,7 +11,7 @@
 
 
 
-<title>Visual Filter</title>
+<title>Places Mentioned in Joseph Williamson’s News Network</title>
 
 <script src="site_libs/header-attrs-2.6.6/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
@@ -331,15 +331,14 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Visual Filter</h1>
+<h1 class="title toc-ignore">Places Mentioned in Joseph Williamson’s News Network</h1>
 
 </div>
 
 
-<p>This tool enables users to facet the State Papers correspondence using a series of visual guides: first, select sender(s) and recipient(s) using the drop-down menu on the right. Next, search for a keyword, which displays a bar chart of the keyword hits over time. Select a time period by dragging a box and results are displayed on the mini-map. Lastly, draw a box around an area of interest using the map tools, and click to display the relevant network of letters sent from those origins.</p>
-<p>Clicking on each link will display the letters between those two individuals.</p>
-<p>Note that this is slow to load. An easier-to-navigate version is available here: <a href="https://networkingarchives.shinyapps.io/stuart_visual_search/" class="uri">https://networkingarchives.shinyapps.io/stuart_visual_search/</a></p>
-<iframe src="https://networkingarchives.shinyapps.io/stuart_visual_search/" width="1200" height="800" frameBorder="0">
+<p>This map displays places mentioned in letters of news from Joseph Williamson’s network of informants. The places were extracted using the python library SpaCy, which uses statistical patterns in the text to guess likely place names, and are not 100% accurate.</p>
+<p>To use, first select a location on the map. Next, select from the three gazeteer sources (multiple can be selected), and a NER method (currently only SpaCy is implemented). A list of informants will appear as buttons. Clicking on one or more of these will display the places mentioned as sized points. Clicking on a point will display the relevant abstracts, with the place name highlighted.</p>
+<iframe src="https://networkingarchives.shinyapps.io/williamson_news/" width="1200" height="800" frameBorder="0">
 </iframe>
 
 
