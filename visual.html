@@ -337,7 +337,9 @@ $(document).ready(function () {
 
 
 <p>With this tool you can browse the State Papers correspondence using a series of visual guides. Each step should be completed in the correct order: first, select sender(s) and recipient(s) using the drop-down menu. Next, enter a keyword in the search box and hit the search button: this will display a bar chart of the keyword hits over time on the right-hand panel. Select a time period by clicking and dragging a box over the desired area in the bar chart, and the origins of these letters will be displayed on the mini-map. Lastly, draw a box around an area of interest using the map tools, and click to display the relevant network of letters sent from those origins.</p>
-<p>Clicking on a link between two nodes will display the letters between those two individuals, in the panel on the left.</p>
+<p>The keyword search accepts regular expressions. Using the search term <code>rebel.*</code> will return <strong>rebel</strong>, <strong>rebels</strong>, <strong>rebellion</strong>, and so forth. For more on the regular expressions you can use see <a href="https://stringr.tidyverse.org/articles/regular-expressions.html">here</a>.</p>
+<p>To add several terms, use <code>|</code> to separate the words, and <code>^</code> and <code>$</code> to indicate the beginning and end of each word, except for the beginning of the first and the end of the last. For example, to get results for either <strong>ship</strong> or <strong>war</strong> use the search term <code>ship\$\|\^war</code>.</p>
+<p>Clicking on a link between two nodes will display the letters between those two individuals in the panel on the left.</p>
 <p>At the moment, the years 1660-1670 (inclusive) are included, as a demonstration.</p>
 <iframe src="https://networkingarchives.shinyapps.io/stuart_visual_filter/" width="1200" height="1500" frameBorder="0">
 </iframe>

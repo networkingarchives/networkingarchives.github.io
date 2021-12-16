@@ -2,10 +2,16 @@
 title: "Visual Filter"
 ---
 
-With this tool you can browse the State Papers correspondence using a series of visual guides. Each step should be completed in the correct order: first, select sender(s) and recipient(s) using the drop-down menu. Next, enter a keyword in the search box and hit the search button: this will display a bar chart of the keyword hits over time on the right-hand panel. Select a time period by clicking and dragging a box over the desired area in the bar chart, and the origins of these letters will be displayed on the mini-map. Lastly, draw a box around an area of interest using the map tools, and click to display the relevant network of letters sent from those origins. 
+With this tool you can browse the State Papers correspondence using a series of visual guides. Each step should be completed in the correct order: first, select sender(s) and recipient(s) using the drop-down menu. Next, enter a keyword in the search box and hit the search button: this will display a bar chart of the keyword hits over time on the right-hand panel. Select a time period by clicking and dragging a box over the desired area in the bar chart, and the origins of these letters will be displayed on the mini-map. Lastly, draw a box around an area of interest using the map tools, and click to display the relevant network of letters sent from those origins.
 
-Clicking on a link between two nodes will display the letters between those two individuals, in the panel on the left. 
+The keyword search accepts regular expressions. Using the search term `rebel.*` will return **rebel**, **rebels**, **rebellion**, and so forth. For more on the regular expressions you can use see [here](https://stringr.tidyverse.org/articles/regular-expressions.html).
+
+To add several terms, use `|` to separate the words, and `^` and `$` to indicate the beginning and end of each word, except for the beginning of the first and the end of the last. For example, to get results for either **ship** or **war** use the search term `ship\$\|\^war`.
+
+Clicking on a link between two nodes will display the letters between those two individuals in the panel on the left.
 
 At the moment, the years 1660-1670 (inclusive) are included, as a demonstration.
 
-<iframe src="https://networkingarchives.shinyapps.io/stuart_visual_filter/" width="1200" height="1500" frameBorder="0"></iframe>
+<iframe src="https://networkingarchives.shinyapps.io/stuart_visual_filter/" width="1200" height="1500" frameBorder="0">
+
+</iframe>

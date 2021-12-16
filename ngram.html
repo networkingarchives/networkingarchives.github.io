@@ -337,8 +337,8 @@ $(document).ready(function () {
 
 
 <p>Use the controls to display a yearly count of the relative frequency of a term or terms as found in the abstracts of the State Papers: Stuart. The term can either be the original spelling (case has been ignored), or the lemmatized word.</p>
-<p>It accepts regular expressions. For instance, to search for all words ending in <strong>king</strong> use the search term <strong>.*king</strong> For more on the regular expressions you can use see <a href="https://stringr.tidyverse.org/articles/regular-expressions.html">here</a>.</p>
-<p>To add several terms, use <strong>|</strong> to separate the words, and <strong>^</strong> and <strong>$</strong> to indicate the beginning and end of each word, except for the beginning of the first and the end of the last. For example, to get results for both ship and war use <strong>ship$|^war</strong></p>
+<p>It accepts regular expressions. For instance, to search for all words ending in <strong>king</strong> use the search term <code>.*king</code> For more on the regular expressions you can use see <a href="https://stringr.tidyverse.org/articles/regular-expressions.html">here</a>.</p>
+<p>To add several terms, use <code>|</code> to separate the words, and <code>^</code> and <code>$</code> to indicate the beginning and end of each word, except for the beginning of the first and the end of the last. For example, to get results for both <strong>ship</strong> and <strong>war</strong> use <code>ship\$\|\^war</code>.</p>
 <p>Choose between a chart displaying the frequency and one displaying the rank using a log scale.</p>
 <p>Use of this to look for trends should be with caution. The abstracts come from the Calendars of State Papers, and some periods and series have more extended abstracts than others. Lemmatization uses a modern dictionary and may not give accurate results.</p>
 <iframe src="https://networkingarchives.shinyapps.io/stuart_ngram_browser" width="1000px" height="700px" frameBorder="0">
