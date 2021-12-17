@@ -6,7 +6,7 @@ With this tool you can browse the State Papers correspondence using a series of 
 
 The keyword search accepts regular expressions. Using the search term `rebel.*` will return **rebel**, **rebels**, **rebellion**, and so forth. For more on the regular expressions you can use see [here](https://stringr.tidyverse.org/articles/regular-expressions.html).
 
-To add several terms, use `|` to separate the words, and `^` and `$` to indicate the beginning and end of each word, except for the beginning of the first and the end of the last. For example, to get results for either **ship** or **war** use the search term `ship\$\|\^war`.
+To add several terms, use `|` to separate the words, and `\s` and to indicate the beginning and end of each word, except for the beginning of the first and the end of the last. For example, to get results for either **ship** or **war** use the search term `ship\s|\swar`.
 
 Clicking on a link between two nodes will display the letters between those two individuals in the panel on the left.
 
