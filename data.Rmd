@@ -1,0 +1,7 @@
+---
+title: "Datasets"
+---
+
+The Networking Archives plans to publish the data and code used for the analysis on the project. This will be published on the project's Github page on publication of the co-authored book. Some data and code is already available, such as the [data to replicate the results](https://github.com/networkingarchives/network_robustness_ca_article) from an [article looking at network robustness](https://culturalanalytics.org/article/25943-the-measure-of-the-archive-the-ro-bustness-of-network-analysis-in-early-modern-correspondence). 
+
+The code for each individual chapter will be made available on this [Github repository](https://github.com/networkingarchives/Book-Chapters), and the data files used by the project [here](https://github.com/networkingarchives/networking-archives-data), as well as an institutional repository for long-term storage. 

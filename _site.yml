@@ -39,6 +39,10 @@ navbar:
         href: curriculum.html
       - text: "Training Schools"
         href: training.html
+      - text: '---------'
+      - text: Datasets
+      - text: "Main Networking Archives Dataset"
+        href: data.html
     - text: "News & Blog"
       href: https://networkingarchives.github.io/blog/
     - text: "Contact"
