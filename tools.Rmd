@@ -30,6 +30,8 @@ https://networkingarchives.shinyapps.io/overlaps_emlo_stuart
 
 Browse a list of EMLO catalogues and display basic network and geographic properties alongside a map.  
 
+https://networkingarchives.shinyapps.io/ego_networks/
+
 # Network Robustness Tool
 
 This tool was developed alongside the paper ['The Measure of the Archive: The Robustness of Network Analysis in Early Modern Correspondence'](https://culturalanalytics.org/article/25943-the-measure-of-the-archive-the-ro-bustness-of-network-analysis-in-early-modern-correspondence). Upload a network graph (in the form of an edge list), and calculate its robustness. The online version is limited to a network with 1,000 edges, but the source code can be downloaded to run the code locally with no limits.  

@@ -13,8 +13,8 @@
 
 <title>Networking Archives</title>
 
-<script src="site_libs/header-attrs-2.6.6/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/journal.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -69,6 +69,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -93,6 +94,12 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
 }
 </style>
 
@@ -242,7 +249,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -252,7 +259,7 @@ $(document).ready(function () {
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     About
      
     <span class="caret"></span>
@@ -273,7 +280,7 @@ $(document).ready(function () {
   </ul>
 </li>
 <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     Research
      
     <span class="caret"></span>
@@ -288,7 +295,7 @@ $(document).ready(function () {
   </ul>
 </li>
 <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     Tools &amp; Training Materials
      
     <span class="caret"></span>
@@ -303,6 +310,9 @@ $(document).ready(function () {
     </li>
     <li>
       <a href="entity.html">Places Mentioned Map</a>
+    </li>
+    <li>
+      <a href="emlo_cats.html">EMLO Catalogue Analysis</a>
     </li>
     <li class="divider"></li>
     <li class="dropdown-header">Training Materials</li>
@@ -354,8 +364,8 @@ $(document).ready(function () {
 <p>‘Networking Archives’ was a three-year, <a href="https://gtr.ukri.org/projects?ref=AH%2FR014817%2F1">AHRC funded</a> research project which merged the early modern correspondence data collected in ‘Early Modern Letters Online’ with metadata from the ‘Gale State Papers Online’ to create the UK’s largest meta-archive of curated early modern correspondence metadata.</p>
 <p>This site archives the project’s tools, research, and resources. It includes a number of <a href="https://networkingarchives.github.io/tools.html">tools</a> which can be used to analyse or browse the project’s correspondence data. You can find extensive <a href="https://networkingarchives.github.io/curriculum.html">teaching materials</a> which can be freely re-used, including an <a href="https://networkingarchives.shinyapps.io/interactive_glossary/" target="_blank">interactive glossary</a> of network terms. See the project’s <a href="https://github.com/networkingarchives" target="_blank">Github page</a> for source code and (when ready) the datasets.</p>
 <p>Use the menu above (or click on the nodes in the network diagram below) to navigate the site.</p>
-<div id="htmlwidget-a048e56ce28e425b50a4" style="width:768px;height:480px;" class="visNetwork html-widget"></div>
-<script type="application/json" data-for="htmlwidget-a048e56ce28e425b50a4">{"x":{"nodes":{"id":["Networking Archives","About","Research","Tools & Training","News & Blog","Contact","Team","Partners","Credits","Research Agenda","Publications","Curriculum","Training Schools","Tools","Interactive Glossary"],"title":["Networking Archives","About","Research","Tools & Training","News & Blog","Contact","Team","Partners","Credits","Research Agenda","Publications","Curriculum","Training Schools","Tools","Interactive Glossary"],"size":[20,20,20,20,20,20,20,20,20,20,20,20,20,20,20],"color.background":["lightblue","lightblue","lightblue","lightblue","lightblue","lightblue","lightblue","lightblue","lightblue","lightblue","lightblue","lightblue","lightblue","lightblue","lightblue"],"color.border":["black","black","black","black","black","black","black","black","black","black","black","black","black","black","black"],"font.color":["black","black","black","black","black","black","black","black","black","black","black","black","black","black","black"],"shape":["circle","circle","circle","circle","circle","circle","circle","circle","circle","circle","circle","circle","circle","circle","circle"],"url":["https://networkingarchives.github.io","https://networkingarchives.github.io/about.html","https://networkingarchives.github.io/research.html","https://networkingarchives.github.io/tools.html","https://networkingarchives.github.io/blog","https://networkingarchives.github.io/contact.html","https://networkingarchives.github.io/team.html","https://networkingarchives.github.io/partners.html","https://networkingarchives.github.io/credits.html","https://networkingarchives.github.io/research.html","https://networkingarchives.github.io/publications.html","https://networkingarchives.github.io/curriculum.html","https://networkingarchives.github.io/training.html","https://networkingarchives.github.io/tools.html","https://networkingarchives.shinyapps.io/interactive_glossary/"],"label":["Networking Archives","About","Research","Tools & Training","News & Blog","Contact","Team","Partners","Credits","Research Agenda","Publications","Curriculum","Training Schools","Tools","Interactive Glossary"],"x":[0.0811794572657545,0.631027000769315,0.330315966921633,-0.593628951425936,0.0643926334017499,-0.0521783519087913,0.722540503536472,0.979276130365625,1,0.323594183144558,0.623441980934817,-1,-0.822369060458042,-0.708206319491209,-0.949309230275168],"y":[-0.135152385700409,-0.534232868772364,0.518844395818212,-0.270049803913695,-0.531211376668245,0.204211539305948,-1,-0.792011989564693,-0.414079700154594,1,0.829963149821296,-0.176372582493812,0.108634881257,-0.722392609861261,-0.521627010496886]},"edges":{"from":["Networking Archives","Networking Archives","Networking Archives","Networking Archives","Networking Archives","About","About","About","Research","Research","Tools & Training","Tools & Training","Tools & Training","Tools & Training"],"to":["About","Research","Tools & Training","News & Blog","Contact","Team","Partners","Credits","Research Agenda","Publications","Curriculum","Training Schools","Tools","Interactive Glossary"],"color":["black","black","black","black","black","black","black","black","black","black","black","black","black","black"]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","physics":true},"manipulation":{"enabled":false},"edges":{"smooth":false,"arrows":"to"},"physics":{"stabilization":false}},"groups":null,"width":null,"height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","igraphlayout":{"type":"square"},"events":{"click":"function(params) {\n    var nodeID = params.nodes[0];\n    var url = this.body.nodes[nodeID].options.url;\n    window.open(url, '_self');\n   }"}},"evals":["events.click"],"jsHooks":[]}</script>
+<div id="htmlwidget-793ebd35ec0ebfd200ba" style="width:768px;height:480px;" class="visNetwork html-widget"></div>
+<script type="application/json" data-for="htmlwidget-793ebd35ec0ebfd200ba">{"x":{"nodes":{"id":["Networking Archives","About","Research","Tools & Training","News & Blog","Contact","Team","Partners","Credits","Research Agenda","Publications","Curriculum","Training Schools","Tools","Interactive Glossary"],"title":["Networking Archives","About","Research","Tools & Training","News & Blog","Contact","Team","Partners","Credits","Research Agenda","Publications","Curriculum","Training Schools","Tools","Interactive Glossary"],"size":[20,20,20,20,20,20,20,20,20,20,20,20,20,20,20],"color.background":["lightblue","lightblue","lightblue","lightblue","lightblue","lightblue","lightblue","lightblue","lightblue","lightblue","lightblue","lightblue","lightblue","lightblue","lightblue"],"color.border":["black","black","black","black","black","black","black","black","black","black","black","black","black","black","black"],"font.color":["black","black","black","black","black","black","black","black","black","black","black","black","black","black","black"],"shape":["circle","circle","circle","circle","circle","circle","circle","circle","circle","circle","circle","circle","circle","circle","circle"],"url":["https://networkingarchives.github.io","https://networkingarchives.github.io/about.html","https://networkingarchives.github.io/research.html","https://networkingarchives.github.io/tools.html","https://networkingarchives.github.io/blog","https://networkingarchives.github.io/contact.html","https://networkingarchives.github.io/team.html","https://networkingarchives.github.io/partners.html","https://networkingarchives.github.io/credits.html","https://networkingarchives.github.io/research.html","https://networkingarchives.github.io/publications.html","https://networkingarchives.github.io/curriculum.html","https://networkingarchives.github.io/training.html","https://networkingarchives.github.io/tools.html","https://networkingarchives.shinyapps.io/interactive_glossary/"],"label":["Networking Archives","About","Research","Tools & Training","News & Blog","Contact","Team","Partners","Credits","Research Agenda","Publications","Curriculum","Training Schools","Tools","Interactive Glossary"],"x":[0.16780291738087,0.582391422253215,0.479089474442493,-0.555879252987257,0.00782042111979098,0.497492233931374,0.843909252669065,1,0.51221031587107,0.832096824697034,0.520534962332215,-0.662521539078547,-0.808802177442958,-1,-0.937170323464082],"y":[-0.00317817564879663,0.577697153894869,-0.571739199476146,-0.14439857270792,0.297593881939467,-0.0698246448949311,0.943520918737824,0.641437157332745,1,-0.812047810751543,-1,-0.541787723407556,0.185314532173307,-0.0725895642872797,-0.379394318900773]},"edges":{"from":["Networking Archives","Networking Archives","Networking Archives","Networking Archives","Networking Archives","About","About","About","Research","Research","Tools & Training","Tools & Training","Tools & Training","Tools & Training"],"to":["About","Research","Tools & Training","News & Blog","Contact","Team","Partners","Credits","Research Agenda","Publications","Curriculum","Training Schools","Tools","Interactive Glossary"],"color":["black","black","black","black","black","black","black","black","black","black","black","black","black","black"]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","physics":true},"manipulation":{"enabled":false},"edges":{"smooth":false,"arrows":"to"},"physics":{"stabilization":false}},"groups":null,"width":null,"height":null,"idselection":{"enabled":false},"byselection":{"enabled":false},"main":null,"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","igraphlayout":{"type":"square"},"events":{"click":"function(params) {\n    var nodeID = params.nodes[0];\n    var url = this.body.nodes[nodeID].options.url;\n    window.open(url, '_self');\n   }"}},"evals":["events.click"],"jsHooks":[]}</script>
 
 
 

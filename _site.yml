@@ -31,6 +31,8 @@ navbar:
         href: ngram.html
       - text: "Places Mentioned Map"
         href: entity.html
+      - text: "EMLO Catalogue Analysis"
+        href: emlo_cats.html
       - text: '---------'
       - text: Training Materials
       - text: "Interactive Network Glossary"
